@@ -124,7 +124,7 @@ window_length = (
 st.sidebar.markdown("---")
 st.sidebar.markdown("### Developers:")
 st.sidebar.write("**Dr Nurul A'in binti Ahmad Latif**")
-st.sidebar.caption("Leading Edge NDT Group\nAgensi Nuklear Malaysia\nEmail: asyrafarif@nm.gov.my")
+st.sidebar.caption("Leading Edge NDT Group\nAgensi Nuklear Malaysia\nEmail: nurul_ain@nm.gov.my")
 
 st.sidebar.write("**Dr. Hanafi Ithnin**")
 st.sidebar.caption("Bahagian Teknologi Industri (BTI)\nAgensi Nuklear Malaysia\nEmail: hanafi_i@nm.gov.my")
