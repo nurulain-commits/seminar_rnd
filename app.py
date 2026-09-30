@@ -123,7 +123,7 @@ window_length = (
 # Developer Info Block
 st.sidebar.markdown("---")
 st.sidebar.markdown("### Developers:")
-st.sidebar.write("**Asyraf Arif Bin Abu Bakar**")
+st.sidebar.write("**Dr Nurul A'in binti Ahmad Latif**")
 st.sidebar.caption("Leading Edge NDT Group\nAgensi Nuklear Malaysia\nEmail: asyrafarif@nm.gov.my")
 
 st.sidebar.write("**Dr. Hanafi Ithnin**")
